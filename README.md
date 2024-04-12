@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on **3D Multi Object Tracking**, **Humaniod Robotics**
+- 🌱 I’m currently learning **3D Perception**
+- 📫 How to reach me: tiandusama@gmail.com
+  
 <!--
 **drb-ecust/drb-ecust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
