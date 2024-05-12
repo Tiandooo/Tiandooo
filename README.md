@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **3D Multi Object Tracking**, **Humaniod Robotics**
-- 🌱 I’m currently learning **3D Perception**
+- 🌱 I’m currently learning **3D Perception**, **Robot Data Augmentation**
 - 📫 How to reach me: tiandusama@gmail.com
   
 <!--
