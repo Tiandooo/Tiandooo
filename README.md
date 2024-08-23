@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **3D Multi Object Tracking**, **Humaniod Robotics**
-- 🌱 I’m currently learning **3D Perception**, **LLM-Guided Diffusion**, **Reinforcement Learning**
+- 🌱 I’m currently learning **3D Perception**, **LLM-Guided Diffusion**, **Grounding SAM2**
 - 📫 How to reach me: tiandusama@gmail.com
 - Seize the day.
   
