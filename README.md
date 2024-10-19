@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **3D Multi Object Tracking**, **Humaniod Robotics**
-- 🌱 I’m currently learning **3D Perception**, **LLM-Guided Diffusion**, **Grounding SAM2**
+- 🔭 I’m currently working on **3D Multi Object Tracking**(ICRA 2025 under review), **Humaniod Robotics(dataset)**
+- 🌱 I’m currently learning **Diffusion models**, **Reinforcement learning**
+- 🚗 I'm finding Research Directions in **2D & 3D visual generation**, welcome cooperation!
 - 📫 How to reach me: tiandusama@gmail.com
-- Seize the day.
+- 
   
 <!--
 **drb-ecust/drb-ecust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
