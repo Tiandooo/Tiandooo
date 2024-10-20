@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Diffusion models**, **Reinforcement learning**
 - 🚗 I'm finding Research Directions in **2D & 3D visual generation**, welcome cooperation!
 - 📫 How to reach me: tiandusama@gmail.com
-- 
+- 🚓 Leetcode 150 plan.
   
 <!--
 **drb-ecust/drb-ecust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
