@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **3D Multi Object Tracking**(ICRA 2025 under review), **Humaniod Robotics(dataset)**
-- 🌱 I’m currently learning **Diffusion models**, **Reinforcement learning**, **C++**
+- 🔭 I’m currently working on **3D Multi-Object Tracking**(ICRA 2025 under review), **Robotics Dataset data Quality Qssessment and Augmentation(RobotQQA)**
+- 🌱 I’m currently learning **Spring Boot**, **MicroService**, **Redis** and so on.
 - 🚗 I'm finding Research Directions in **2D & 3D visual generation**, welcome cooperation!
 - 📫 How to reach me: tiandusama@gmail.com
 
