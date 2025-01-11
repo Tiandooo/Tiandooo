@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **3D Multi-Object Tracking**(ICRA 2025 under review), **Robotics Dataset data Quality Qssessment and Augmentation(RobotQQA)**
-- 🌱 I’m currently learning **Spring Boot**, **MicroService**, **Redis** and so on.
-- 🚗 I'm finding Research Directions in **2D & 3D visual generation**, welcome cooperation!
-- 📫 How to reach me: tiandusama@gmail.com
+- 🌱 I’m currently learning **RecommendingSystems** and so on.
+- 📫 How to reach me: drb23@m.fudan.edu.cn
 
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
