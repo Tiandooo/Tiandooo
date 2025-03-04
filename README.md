@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **3D Multi-Object Tracking**(ICRA 2025 under review), **Robotics Dataset data Quality Qssessment and Augmentation(RobotQQA)**
-- 🌱 I’m currently learning **RecommendingSystems** and so on.
+- 🔭 I’m currently working on **3D Multi-Object Tracking**(ICRA 2025 Accepted!), **Robotics Dataset data Quality Qssessment and Augmentation(RobotQQA)**
+- 🌱 I’m currently learning **RecommendingSystems** and looking for **Recommendation Algorithm Intern**.
 - 📫 How to reach me: drb23@m.fudan.edu.cn
 
 🌟 **My Skills**  
